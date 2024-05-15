@@ -27,3 +27,7 @@ This is a simple version of the application we present as our project for the Ad
    - Install the files
    - Set the javaFX libiraies location - check:  https://www.youtube.com/watch?v=AubJaosfI-0&t=16s
    - Set the database & jdbc connection - check the databse code file
+
+
+Youtube video:
+https://www.youtube.com/watch?v=fGULsFalYaA
