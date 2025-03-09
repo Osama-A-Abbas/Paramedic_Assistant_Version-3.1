@@ -24,10 +24,10 @@ This is a simple version of the application we present as our project for the Ad
                 3- user_responses table: This table will be dedicated to capturing Paramedic responses for Patient Info entered through the PatientInfoEntry.fxml
 
    To run the program:
-   - Install the files
+   - Clone the files
    - Set the javaFX libiraies location - check:  https://www.youtube.com/watch?v=AubJaosfI-0&t=16s
    - Set the database & jdbc connection - check the databse code file
 
 
-Youtube video:
+Project Demo on Youtube:
 https://www.youtube.com/watch?v=fGULsFalYaA
